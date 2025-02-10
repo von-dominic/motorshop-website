@@ -271,8 +271,8 @@ videoPlayer.addEventListener('ended', playNextVideo);
     <div class="card">
         <img src="https://via.placeholder.com/300x200" alt="Character Design">
         <div class="card-content">
-            <h3 class="card-title">Character Design</h3>
-            <p class="card-description">Supporting cartoon character design.</p>
+            <h3 class="card-title">Brand Designs</h3>
+            <p class="card-description">Customer's builds.</p>
             <a href="#" class="card-button">Watch Now</a>
         </div>
     </div>
@@ -281,8 +281,8 @@ videoPlayer.addEventListener('ended', playNextVideo);
     <div class="card">
         <img src="https://via.placeholder.com/300x200" alt="Fashion and Beauty">
         <div class="card-content">
-            <h3 class="card-title">Fashion and Beauty</h3>
-            <p class="card-description">Offering entertaining options such as personal portraits and avatars.</p>
+            <h3 class="card-title">Tutorials</h3>
+            <p class="card-description">Ensures that the item used correctly.</p>
             <a href="#" class="card-button">Watch Now</a>
         </div>
     </div>
@@ -291,8 +291,8 @@ videoPlayer.addEventListener('ended', playNextVideo);
     <div class="card">
         <img src="https://via.placeholder.com/300x200" alt="Game Assets">
         <div class="card-content">
-            <h3 class="card-title">Game Assets</h3>
-            <p class="card-description">Facilitating the design of game elements.</p>
+            <h3 class="card-title">Quality of Accesories</h3>
+            <p class="card-description">Factories of companys accesories .</p>
             <a href="#" class="card-button">Watch Now</a>
         </div>
     </div>
@@ -370,10 +370,10 @@ videoPlayer.addEventListener('ended', playNextVideo);
             <h4>Discover</h4>
             <ul>
                 <li><a href="#">Editor's Choice</a></li>
-                <li><a href="#">Weapon Collections</a></li>
-                <li><a href="#">Popular Firearms</a></li>
+                <li><a href="#">Trophy Collections</a></li>
+                <li><a href="#">Popular Products</a></li>
                 <li><a href="#">Popular Accessories</a></li>
-                <li><a href="#">Popular Gun Shop</a></li>
+                <li><a href="#">Popular Motorshop</a></li>
                 <li><a href="#">Popular Searches</a></li>
             </ul>
         </div>
@@ -399,7 +399,7 @@ videoPlayer.addEventListener('ended', playNextVideo);
         </div>
     </div>
     <div class="footer-bottom">
-        <p>© 2024 YourWebsite. All rights reserved. This site is protected by reCAPTCHA and the Google <a href="#">Privacy Policy</a> and <a href="#">Terms of Service</a>.</p>
+        <p>© 2025 YourWebsite. All rights reserved. This site is protected by reCAPTCHA and the Google <a href="#">Privacy Policy</a> and <a href="#">Terms of Service</a>.</p>
     </div>
 </footer>
 
